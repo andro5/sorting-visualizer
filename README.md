@@ -3,7 +3,7 @@
 Interactive sorting visualizer built with **React**, **Vite**, **TypeScript**, and **ShadCN UI**.  
 Allows users to input their own numbers and watch different sorting algorithms animate step by step.
 
-Game can be played online:
+Showcase can be seen online:
 **https://algo-visualizer.andrejkesten.dev**
 
 ## Features
